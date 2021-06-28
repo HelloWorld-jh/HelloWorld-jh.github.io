@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "실습 예제입니다."
+---
 ```python
 import pandas as pd
 '''
